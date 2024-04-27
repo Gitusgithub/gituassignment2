@@ -20,3 +20,8 @@ navbar{
     margin: auto;
 }
 
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
