@@ -90,6 +90,18 @@ ul li a:hover{
     padding: 10px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
-    
 
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
 }
