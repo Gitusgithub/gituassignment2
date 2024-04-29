@@ -101,14 +101,24 @@ ul li a:hover {
 .btn:focus {
     outline: none;
 }
+
 .srch:focus {
     outline: none;
 }
 
-.content{
+.content {
     width: 1200px;
     height: auto;
     margin: auto;
     color: #fff;
     position: relative;
+}
+
+.content .par{
+    padding-left: 200px;
+    padding-bottom: 25px;
+    font-family: Arial ;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    
 }
