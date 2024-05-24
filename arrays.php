@@ -22,8 +22,8 @@ print $user[2];
 
 <?php
 $user_data = [
-    "Fullname" =>"Alex Okama"
-    "email" =>"AOKama@yahoo.com"
+    "Fullname" =>"Alex Okama",
+    "email" =>"AOKama@yahoo.com",
     "phone" =>"+2548458965"
 ];
 print $user_data["email"];
